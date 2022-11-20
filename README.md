@@ -84,8 +84,9 @@ All you need is... some time and...
 
 ## Acknowledgments
 
+* https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion.
+* https://www.baeldung.com/jackson-annotations.
 * https://www.baeldung.com/hibernate-one-to-many.
 * https://www.baeldung.com/jpa-many-to-many.
-* https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion.
 * https://www.getpostman.com/. Used to test the RESTFul end points of the project.
 * https://gist.github.com/PurpleBooth/109311bb0361f32d87a2. A very complete template for README.md files.
